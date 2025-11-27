@@ -5,7 +5,7 @@
 Echopedia adalah sebuah platform digital yang mendukung gerakan Go Green dengan tujuan meningkatkan kesadaran serta partisipasi masyarakat dalam menjaga kelestarian lingkungan. Melalui website ini, pengguna dapat mempelajari berbagai cara untuk menjaga bumi tetap hijau, ikut berkontribusi dalam kampanye lingkungan, serta berdiskusi dan berbagi ide dengan komunitas pecinta lingkungan lainnya. Echopedia dirancang sebagai pusat edukasi dan aksi lingkungan yang modern, interaktif, dan mudah diakses.
 Website Echopedia menyediakan beberapa fitur utama, yaitu:
 
-1. Education
+**1. Education**
 
 Fitur ini berisi berbagai materi edukasi terkait lingkungan seperti:
 Penjelasan tentang perubahan iklim
@@ -14,7 +14,7 @@ Tips gaya hidup ramah lingkungan
 Artikel, infografis, dan video edukasi
 Pengguna dapat memperdalam pengetahuan mereka dan memahami langkah-langkah sederhana yang bisa dilakukan dalam kehidupan sehari-hari.
 
-2. Campaign
+**2. Campaign**
 Bagian ini bertujuan untuk mengajak pengguna ikut serta dalam aksi nyata.
 Di dalam fitur Campaign, pengguna dapat:
 Melihat kampanye lingkungan yang sedang berlangsung
@@ -22,7 +22,7 @@ Berpartisipasi dalam kegiatan seperti penanaman pohon, bersih-bersih pantai, dau
 Membuat kampanye mereka sendiri (opsional jika ingin menambah fitur)
 Fitur ini membantu komunitas membangun gerakan bersama untuk masa depan yang lebih hijau.
 
-3. Waste Management
+**3. Waste Management**
 Fitur pengelolaan sampah ini memberikan edukasi dan panduan praktis seperti:
 Cara memilah sampah dengan benar
 Pengolahan sampah organik dan anorganik
@@ -30,14 +30,14 @@ Lokasi tempat daur ulang terdekat (jika ingin menambahkan peta interaktif)
 Tips untuk mengurangi penggunaan plastik
 Tujuannya untuk mengubah kebiasaan pengguna menjadi lebih ramah lingkungan.
 
-4. Green Space
+**4. Green Space**
 Pada fitur ini, pengguna dapat:
 Menemukan ruang terbuka hijau seperti taman kota, hutan kota, dan area rekreasi
 Melihat informasi lokasi, fasilitas, dan kegiatan yang bisa dilakukan
 Rekomendasi tempat healing yang alami dan bebas polusi
 Fitur ini mendorong masyarakat untuk lebih dekat dengan alam dan menjaga keberadaan ruang hijau.
 
-5. Gallery
+**5. Gallery**
 
 Berisi kumpulan foto dan dokumentasi kegiatan lingkungan seperti:
 Kegiatan kampanye
@@ -46,7 +46,7 @@ Penanaman pohon
 Ide kreatif daur ulang
 Gallery membantu menampilkan perjalanan gerakan hijau bersama komunitas.
 
-6. Forum Diskusi
+**6. Forum Diskusi**
 Forum ini disediakan untuk membangun komunitas hijau yang aktif. Di dalamnya pengguna dapat:
 Berdiskusi tentang isu lingkungan
 Bertanya dan memberi solusi
